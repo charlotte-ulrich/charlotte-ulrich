@@ -9,8 +9,8 @@ I am experienced with:
   <li>Express</li>
   <li>Sequelize</li>
   <li>PostgreSQL</li>
-  <li>React</li>
-  <li>Redux</li>
+  <li>React.js</li>
+  <li>Redux.js</li>
   <li>HTML/CSS</li>
   <li>Git/Github</li>
   <li>Socket.io</li>

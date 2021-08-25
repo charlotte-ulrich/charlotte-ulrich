@@ -1,6 +1,6 @@
 **About Me**
 
-Hi, I'm Charlotte! I am a fullstack developer and recent Fullstack Academy grad living in Chicago. After four years in the tech industry, first at a growth-phase startup called Simplr and then as a talent acquisition consultant with IQTalent Partners supporting tech hiring everywhere from stealth startups to industry giants, I pivoted my career to software development. 
+Hi, I'm Charlotte! I am a fullstack developer and recent Fullstack Academy grad living in Chicago. After four years in the tech industry, I pivoted my career to software development. 
 
 I am experienced with:
 <ul>
@@ -14,6 +14,7 @@ I am experienced with:
   <li>HTML/CSS</li>
   <li>Git/Github</li>
   <li>Socket.io</li>
+  <li>Vue.js</li>
 </ul>
 Outside of coding, I like: 
 <ul>

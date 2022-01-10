@@ -1,6 +1,6 @@
 **About Me**
 
-Hi, I'm Charlotte! I am a fullstack developer and recent Fullstack Academy grad living in Chicago. After four years in the tech industry, I pivoted my career to software development. 
+Hi, I'm Charlotte! I am a fullstack developer living in Chicago.
 
 I am experienced with:
 <ul>
